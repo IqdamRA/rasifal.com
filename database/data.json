@@ -1,0 +1,91 @@
+{
+    "header":{
+        "Judul":"Iqdam Rasif Al Farobi",
+        "desk":"Perkenalkan nama saya Iqdam Rasif Al Farobi, saya lahir dibanyuwangi pada taggal 02 juli 2002. saya anak ketiga dari tiga bersaudara, sekarang saya berkuliah di STIKOM PGRI BANYUWANGI, saya mengambil jurusan Teknik Informatika S1, saya suka kuliah teknik, saya ingin mendalami pemograman sampai bisa fullstack...",
+        "button":"Selengkapnya",
+        "img":"assets/img/hero/gambarku.jpg"
+    },
+    "main":{
+        "background":"assets/img/category/shape.png",
+        "judul":"Skill yang saya dapat pada perkuliah",
+        "cont":[
+            {
+                "img":"assets/img/category/javascript.png",
+                "judul":"Java Script",
+                "desk":"skill yang saya dapat dalam menggunakan Java script saya sudah paham tentang dasar-dasar dan masih harus banyak belajar lagi"
+            },
+            {
+                "img":"assets/img/category/opentoonz.png",
+                "judul":"Opentoonz",
+                "desk":"skill yang saya dapat dalam menggunakan Opentoonz saya sudah paham tentang dasar-dasar dan masih harus banyak belajar lagi"
+            },
+            {
+                "img":"assets/img/category/node.png",
+                "judul":"Node.js",
+                "desk":"skill yang saya dapat dalam menggunakan Node.js saya sudah paham tentang dasar-dasar dan masih harus banyak belajar lagi"
+            },
+            {
+                "img":"assets/img/category/react.png",
+                "judul":"react.js",
+                "desk":"skill yang saya dapat dalam menggunakan React saya sudah paham tentang dasar-dasar dan masih harus banyak belajar lagi"
+            }
+        ]
+    },
+    "main2":{
+        "judul":"Organisasi",
+        "desk": "saya banyak mengikuti sebuah organisasi dalam kampus seperti Desain, Mapaswangi, web Development",
+        "img":"assets/img/validation/pres.jpeg",
+        "item":[
+            {
+                "judul":"Desain",
+                "desk":"Desain adalah organisasi dalam kampus organisasi ini sangat digemari oleh mahasiswa karena organisasi ini sangatlah seru kita dapat mendesain foto/vidio membuat sebuah animasi karton dll."
+            },
+            {
+                "judul":"Mapaswangi",
+                "desk":"Mapaswangi adalah organisasi dalam yang tujuan dari organisasi tersebut adalah untuk mengajak teman-teman agar tetap peduli dalam menjaga lingkungan."
+            },
+            {
+                "judul":"Web Development",
+                "desk":"organisasi ini adalah organisasi dalam kampus yang dipandu programer yang ada di kampus. organisasi ini bertujuan untuk membagikan ilmu tentang pemrograman agar teman-teman bisa membuat sebuah projek"
+            }
+        ]
+    },
+    "main3":{
+        "judul":"Hobi",
+        "item":[
+            {
+                "img":"assets/img/marketing/game.jpg",
+                "judul":"Bermain Game"
+            },
+            {
+                "img":"assets/img/marketing/gitars.jpg",
+                "judul":"Bermain Gitar"
+            },
+            {
+                "img":"assets/img/marketing/traveling.jpg",
+                "judul":"Traveling"
+            }
+        ]
+    },
+    "footer":{
+        "item":[
+            {
+                "judul":"Quick Link",
+                "desk1":"About us",
+                "desk2":"Blog",
+                "desk3":"Contact"
+            },
+            {
+                "judul":"Legal stuff",
+                "desk1":"Disclaimer",
+                "desk2":"Financing",
+                "desk3":"Privacy Policy"
+            },
+            {
+                "judul":"Jika ada yang ingin berteman silahkan cantumkan nomer anda disini ya",
+                "input":"Masukkan Nomer Handphone",
+                "button":"Done"
+            }
+        ]
+    }
+}
